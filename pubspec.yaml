@@ -41,7 +41,7 @@ dependencies:
   firebase_analytics:
 
   # Crashlytics
-  firebase_crashlytics:
+  firebase_crashlytics: ^3.0.1
 
   # Performance
   firebase_performance:
